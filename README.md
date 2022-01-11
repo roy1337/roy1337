@@ -8,8 +8,7 @@ Skills: Python / SQL
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roy1337)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](royd1337)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/roy1337)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](royd1337)  
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roy1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
