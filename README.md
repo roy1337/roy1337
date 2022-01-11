@@ -1,5 +1,5 @@
-### Hi there 👋, i am Roy.
-#### an experienced Analyst with a never-ending passion for Data.
+### Hi there 👋, i am **Roy.**
+#### an experienced Analyst with a **never-ending** passion for Data.
 
 Skills: Python / SQL 
 
@@ -10,3 +10,4 @@ Skills: Python / SQL
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roy1337)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roy1337)  
+
