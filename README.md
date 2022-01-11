@@ -1,3 +1,4 @@
+https://forthebadge.com/images/badges/built-with-love.svg
 ### Hi there 👋, i am **Roy.**
 #### an experienced Analyst with a **never-ending** passion for Data.
 
