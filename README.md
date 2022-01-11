@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)] [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)] [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]
 
 
 ### Hi there 👋, i am **Roy.**
@@ -14,7 +14,7 @@ Skills: Python / SQL
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roy1337)  
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roy1337&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roy1337&theme=react-dark)]
 
 
  
