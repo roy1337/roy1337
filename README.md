@@ -2,9 +2,9 @@
 
 
 ### Hi there 👋, i am **Roy.**
-#### an experienced Analyst with a **never-ending** passion for Data.
+#### an experienced Analyst with a **never-ending** passion for Development.
 
-Skills: Python / SQL 
+Skills: Python / SQL / JS / CSS / HTML
 
 
 
