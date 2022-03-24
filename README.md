@@ -14,7 +14,7 @@ Skills: JS / CSS / HTML / SQL / Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roy1337)  
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roy1337)]
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=roy1337)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
