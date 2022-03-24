@@ -4,7 +4,7 @@
 ### Hi there 👋, i am **Roy.**
 #### an experienced Analyst with a **never-ending** passion for Development.
 
-Skills: Python / SQL / JS / CSS / HTML
+Skills: JS / CSS / HTML / SQL / Python
 
 
 
