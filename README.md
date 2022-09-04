@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, i am **Roy.**
-#### an experienced Analyst with a **never-ending** passion for Development.
+#### an experienced System Engineer/Analyst with a **never-ending** passion for Development.
 
 Skills: JS / CSS / HTML / SQL / Python
 
