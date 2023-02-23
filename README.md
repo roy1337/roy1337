@@ -4,7 +4,7 @@
 ### Hi there 👋, i am **Roy.**
 #### an experienced System Engineer/Analyst with a **never-ending** passion for Development.
 
-Skills: JS / CSS / HTML / SQL / Python
+Skills: SQL / Python / JS / CSS / HTML 
 
 
 
